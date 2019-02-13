@@ -1,0 +1,15 @@
+C:\Users\Gurleen Singh\Desktop\C# Project\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\Gurleen Singh\Desktop\C# Project\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\Gurleen Singh\Desktop\C# Project\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\Gurleen Singh\Desktop\C# Project\FinalProject\FinalProject\obj\Debug\FinalProject.csprojAssemblyReference.cache
+C:\Users\Gurleen Singh\Desktop\C# Project\FinalProject\FinalProject\obj\Debug\FinalProject.Form1.resources
+C:\Users\Gurleen Singh\Desktop\C# Project\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\Gurleen Singh\Desktop\C# Project\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\Users\Gurleen Singh\Desktop\C# Project\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Gurleen Singh\Desktop\C# Project\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\Gurleen Singh\Desktop\C# Project\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\Gurleen Singh\Desktop\C# Project\FinalProject\FinalProject\obj\Debug\FinalProject.Calculator.resources
+C:\Users\Gurleen Singh\Desktop\C# Project\FinalProject\FinalProject\obj\Debug\FinalProject.MoneyExchange.resources
+C:\Users\Gurleen Singh\Desktop\C# Project\FinalProject\FinalProject\obj\Debug\FinalProject.TempConvert.resources
+C:\Users\Gurleen Singh\Desktop\C# Project\FinalProject\FinalProject\obj\Debug\FinalProject.Lotto649.resources
+C:\Users\Gurleen Singh\Desktop\C# Project\FinalProject\FinalProject\obj\Debug\FinalProject.LottoMax.resources

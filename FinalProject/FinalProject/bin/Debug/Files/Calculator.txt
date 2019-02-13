@@ -1,0 +1,4 @@
+12 + 22
+Calculator, 26-Jul-18 9:34:06 AM 11 + 14 = 25
+Calculator, 26-Jul-18 10:09:55 AM 10 + 14 = 24
+Calculator, 26-Jul-18 10:10:05 AM 22 - 10 = 12
